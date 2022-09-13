@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projeto01</string>
+    <string name="todo_list">Todo List</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="digite_uma_atividade">Digite uma atividade</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="pesquisar_atividade">Pesquisar atividade</string>
+    <string name="autoTask">AutoCompleteTextView</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="todo">TODO</string>
+    <string name="homem">Homem</string>
+    <string name="mulher">Mulher</string>
+    <string name="homemR">Homem</string>
+    <string name="mulherR">Mulher</string>
+</resources>
